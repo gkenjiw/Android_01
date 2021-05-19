@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">Lista1</string>
+    <string name="name">Name</string>
+    <string name="text_view_select_fields">Select fields to fill in</string>
+    <string name="phone">Phone</string>
+    <string name="preferences_contact">Contact preferences</string>
+    <string name="data">Data</string>
+    <string name="email" translatable="false">E-Mail</string>
+    <string name="whats" translatable="false">WhatsApp</string>
+    <string name="show">Show</string>
+    <string name="text_view_choose_exercise">Choose the exercise</string>
+    <string name="ex01">Exercise 1-2</string>
+    <string name="ex03">Exercise 3</string>
+    <string name="ex04">Exercise 4</string>
+    <string name="ex05">Exercise 5</string>
+    <string name="ex06">Exercise 6</string>
+    <string name="ex07">Exercise 7</string>
+    <string name="ex08">Exercise 8</string>
+    <string name="ex09">Exercise 9</string>
+    <string name="user_phone">User/Phone</string>
+    <string name="select">Select</string>
+    <string name="personal">Personal</string>
+    <string name="professional">Professional</string>
+    <string name="other">Other</string>
+    <string name="back">Back</string>
+    <string name="movie">Movie</string>
+    <string name="music">Music</string>
+    <string name="book">Book</string>
+    <string name="game">Game</string>
+    <string name="action">Action</string>
+    <string name="comedy">Comedy</string>
+    <string name="drama">Drama</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="horror">Horror</string>
+    <string name="mystery">Mystery</string>
+    <string name="romance">Romance</string>
+    <string name="thriller">Thriller</string>
+    <string name="western">Western</string>
+    <string name="alternative">Alternative</string>
+    <string name="blues" translatable="false">Blues</string>
+    <string name="classical">Classical</string>
+    <string name="country" translatable="false">Country</string>
+    <string name="electronic">Electronic</string>
+    <string name="hip_hop" translatable="false">Hip-Hop</string>
+    <string name="rap" translatable="false">Rap</string>
+    <string name="instrumental">Instrumental</string>
+    <string name="metal" translatable="false">Metal</string>
+    <string name="rock" translatable="false">Rock</string>
+    <string name="reggae" translatable="false">Reggae</string>
+    <string name="pop" translatable="false">Pop</string>
+    <string name="adventure">Adventure</string>
+    <string name="classic">Classic</string>
+    <string name="comic_book">Comic Book</string>
+    <string name="detective">Detective</string>
+    <string name="historical_fiction">Historical Fiction</string>
+    <string name="sci_fi">Science Fiction (Sci-Fi)</string>
+    <string name="suspense">Suspense</string>
+    <string name="rpg">Role-Playing Game (RPG)</string>
+    <string name="simulation">Simulation</string>
+    <string name="strategy">Strategy</string>
+    <string name="mmo">Multiplayer Massive Online (MMO)</string>
+    <string name="sports">Sports</string>
+    <string name="racing">Racing</string>
+    <string name="moba">Multiplayer Online Battle Arena (MOBA)</string>
+    <string name="fps">First Person Shooter (FPS)</string>
+    <string name="select_type_first">Select type first</string>
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="four" translatable="false">4</string>
+    <string name="five" translatable="false">5</string>
+    <string name="six" translatable="false">6</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="nine" translatable="false">9</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="dot">.</string>
+    <string name="equal" translatable="false">=</string>
+    <string name="del" translatable="false">Del</string>
+    <string name="division" translatable="false">÷</string>
+    <string name="mult" translatable="false">x</string>
+    <string name="sum" translatable="false">+</string>
+    <string name="sub" translatable="false">-</string>
+    <string name="image_button_description">ImageButton with a Full Metal Alchemist character</string>
+    <string name="next">Next</string>
+    <string name="open">Open</string>
+    <string name="url" translatable="false">Url</string>
+    <string name="number1">Number 1</string>
+    <string name="number2">Number 2</string>
+    <string name="send">Send</string>
+    <string-array name="array_app">
+        <item>@string/select</item>
+        <item>WhatsApp</item>
+        <item>Telegram</item>
+        <item>Signal</item>
+        <item>Discord</item>
+        <item>Skype</item>
+    </string-array>
+    <string-array name="array_email_type">
+        <item>@string/select</item>
+        <item>@string/personal</item>
+        <item>@string/professional</item>
+        <item>@string/other</item>
+    </string-array>
+    <string-array name="array_type_universe">
+        <item>@string/select</item>
+        <item>@string/movie</item>
+        <item>@string/music</item>
+        <item>@string/book</item>
+        <item>@string/game</item>
+    </string-array>
+    <string-array name="array_movie_genre">
+        <item>@string/action</item>
+        <item>@string/comedy</item>
+        <item>@string/drama</item>
+        <item>@string/fantasy</item>
+        <item>@string/horror</item>
+        <item>@string/mystery</item>
+        <item>@string/romance</item>
+        <item>@string/thriller</item>
+        <item>@string/western</item>
+    </string-array>
+    <string-array name="array_music_genre">
+        <item>@string/alternative</item>
+        <item>@string/blues</item>
+        <item>@string/classical</item>
+        <item>@string/country</item>
+        <item>@string/electronic</item>
+        <item>@string/hip_hop</item>
+        <item>@string/rap</item>
+        <item>@string/instrumental</item>
+        <item>@string/metal</item>
+        <item>@string/rock</item>
+        <item>@string/reggae</item>
+        <item>@string/pop</item>
+    </string-array>
+    <string-array name="array_book_genre">
+        <item>@string/action</item>
+        <item>@string/adventure</item>
+        <item>@string/fantasy</item>
+        <item>@string/horror</item>
+        <item>@string/sci_fi</item>
+        <item>@string/historical_fiction</item>
+        <item>@string/suspense</item>
+        <item>@string/comic_book</item>
+        <item>@string/detective</item>
+        <item>@string/mystery</item>
+        <item>@string/romance</item>
+    </string-array>
+    <string-array name="array_game_genre">
+        <item>@string/rpg</item>
+        <item>@string/mmo</item>
+        <item>@string/simulation</item>
+        <item>@string/sports</item>
+        <item>@string/racing</item>
+        <item>@string/moba</item>
+        <item>@string/fps</item>
+    </string-array>
+</resources>

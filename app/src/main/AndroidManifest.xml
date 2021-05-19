@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.senac.lista1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Lista1">
+        <activity android:name=".Ex09Detalhe"></activity>
+        <activity android:name=".Ex09" />
+        <activity android:name=".Ex08" />
+        <activity android:name=".Ex07Detalhe" />
+        <activity android:name=".Ex07" />
+        <activity android:name=".Ex06Image" />
+        <activity android:name=".Ex06" />
+        <activity android:name=".Ex05" />
+        <activity android:name=".Ex04" />
+        <activity android:name=".Ex10">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Ex03" />
+        <activity android:name=".Ex01" />
+    </application>
+
+</manifest>
